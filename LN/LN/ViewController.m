@@ -17,11 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    [self aa];
+    [self aa3];
 }
--(void)aa{
+-(void)aa3{
 
-    NSLog(@"aaa");
+    NSLog(@"aa3");
 }
 
 - (void)didReceiveMemoryWarning {
